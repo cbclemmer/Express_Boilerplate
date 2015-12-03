@@ -1,0 +1,19 @@
+{
+  "name": "bare_express",
+  "version": "1.0.0",
+  "description": "A stripped down node engine designed to simply display a single page on a specific port",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/orbweaver-/bare_express.git"
+  },
+  "author": "Colton Clemmer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/orbweaver-/bare_express/issues"
+  },
+  "homepage": "https://github.com/orbweaver-/bare_express"
+}
